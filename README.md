@@ -35,13 +35,46 @@ Repeated clicks do not duplicate the list.
 6. Select "Open with Live Server".
 7. Test the webpage in your browser.
 
+
 ## Screenshots
 
-### Question 1
-![Question 1 Output](screenshots/q1.png)
+### Question 1: Interactive Text Changer
 
-### Question 2
-![Question 2 Output](screenshots/q2.png)
+**Before Clicking**
 
-### Question 3
-![Question 3 Output](screenshots/q3.png)
+![Q1 Before](screenshots/q1-before.png)
+
+**After Clicking**
+
+![Q1 After](screenshots/q1-after.png)
+
+### Question 2: Smart Number Validator
+
+**Input: 5**
+
+![Q2 Lower](screenshots/q2-lower.png)
+
+**Input: 10**
+
+![Q2 Equal](screenshots/q2-equal.png)
+
+**Input: 15**
+
+![Q2 Higher](screenshots/q2-higher.png)
+
+**Input: 10.5**
+
+![Q2 Decimal](screenshots/q2-decimal.png)
+
+**Input: abc**
+
+![Q2 Invalid](screenshots/q2-invalid.png)
+
+**Empty Input**
+
+![Q2 Empty](screenshots/q2-empty.png)
+
+### Question 3: Dynamic Number Generator
+
+![Q3 Generate](screenshots/q3-generate.png)
+
