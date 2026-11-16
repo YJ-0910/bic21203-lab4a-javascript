@@ -58,7 +58,7 @@ Repeated clicks do not duplicate the list.
 
 ![Q2 Equal](screenshots/q2-equal.png)
 
-**Input: 15**
+**Input: 12**
 
 ![Q2 Higher](screenshots/q2-higher.png)
 
@@ -66,7 +66,7 @@ Repeated clicks do not duplicate the list.
 
 ![Q2 Decimal](screenshots/q2-decimal.png)
 
-**Input: abc**
+**Input: aaa**
 
 ![Q2 Invalid](screenshots/q2-invalid.png)
 
